@@ -7,7 +7,7 @@ public class NumberGuessingGameProject
 			{
 			Scanner userInput = new Scanner(System.in);
 				System.out.println("Welcome to the Number Guessing Game! Enter your name: ");
-				
+				//test
 				String name = userInput.nextLine();
 				
 				boolean playAgain = true;
